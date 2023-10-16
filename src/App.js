@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import "./App.css";
 import aboutImgMe from "./assets/images/about-img-me.jpg";
 import profileImg from "./assets/images/profile-image.png";
-import "@fortawesome/fontawesome-free/css/all.css";
+import '@fortawesome/fontawesome-free/css/all.css';
 function App() {
   useEffect(() => {
     // Active Tab
